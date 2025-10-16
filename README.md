@@ -1,4 +1,4 @@
-#Project
+# Project
 
 This is awesome project
 
@@ -7,5 +7,4 @@ This is awesome project
 [Author](author.md)
 
 ## Conflict
-=======
 234
